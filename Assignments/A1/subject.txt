@@ -1,0 +1,56 @@
+111
+Mathematics 1A
+2
+0
+112
+Mathematics 1B
+2
+2
+113
+Fluid Mechanics A
+3
+1
+114
+Fluid Mechanics B
+3
+2
+115
+Networks A
+2
+1
+116
+Networks B
+2
+2
+117
+Graphics 1
+3
+0
+118
+Graphics 2
+3
+2
+201
+Chemistry 1
+2
+1
+202
+Chemistry 2
+2
+2
+121
+Introduction 1
+1
+1
+131
+Introduction 2
+1
+2
+141
+Telemarketing
+2
+2
+151
+Web design & CGI
+3
+2
