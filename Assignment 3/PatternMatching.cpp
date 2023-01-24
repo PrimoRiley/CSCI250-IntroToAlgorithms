@@ -1,7 +1,6 @@
 /*
 Riley Primeau
 primeauriley@gmail.com
-testing
 */
 
 #include<iostream>
